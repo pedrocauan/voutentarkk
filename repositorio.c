@@ -3,7 +3,7 @@
 
 int main(void)
 {
-  puts("Hello world");
+  puts("Hello fdp");
 
   return 0;
 
